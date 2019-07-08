@@ -1,0 +1,69 @@
+{
+  "users":[
+  {
+    "id": "0",
+    "picture": "http://placehold.it/32x32",
+    "age": 27,
+    "name": {
+      "first": "Nelda",
+      "last": "Huffman"
+    },
+    "company": "SONGBIRD",
+    "email": "nelda.huffman@songbird.com",
+    "phone": "+1 (855) 453-2047",
+    "address": "897 Holly Street, Brazos, New Mexico, 596"
+  },
+  {
+    "id": "1",
+    "picture": "http://placehold.it/32x32",
+    "age": 30,
+    "name": {
+      "first": "Edith",
+      "last": "Briggs"
+    },
+    "company": "ZAGGLE",
+    "email": "edith.briggs@zaggle.name",
+    "phone": "+1 (974) 570-3962",
+    "address": "133 Debevoise Avenue, Windsor, American Samoa, 272"
+  },
+  {
+    "id": "2",
+    "picture": "http://placehold.it/32x32",
+    "age": 22,
+    "name": {
+      "first": "Stacey",
+      "last": "Carney"
+    },
+    "company": "SQUISH",
+    "email": "stacey.carney@squish.co.uk",
+    "phone": "+1 (961) 402-3562",
+    "address": "879 Chester Avenue, Bascom, Colorado, 7764"
+  },
+  {
+    "id": "3",
+    "picture": "http://placehold.it/32x32",
+    "age": 23,
+    "name": {
+      "first": "Felecia",
+      "last": "Guy"
+    },
+    "company": "ROCKABYE",
+    "email": "felecia.guy@rockabye.ca",
+    "phone": "+1 (862) 552-3914",
+    "address": "222 Kansas Place, Goodville, Utah, 1405"
+  },
+  {
+    "id": "4",
+    "picture": "http://placehold.it/32x32",
+    "age": 35,
+    "name": {
+      "first": "Rena",
+      "last": "Berry"
+    },
+    "company": "ZOUNDS",
+    "email": "rena.berry@zounds.info",
+    "phone": "+1 (940) 589-2614",
+    "address": "290 Judge Street, Sedley, Wisconsin, 4577"
+  }
+ ]
+}
